@@ -36,7 +36,7 @@ blocks:
           color: primary
           style: float
         title: This Is a Feature
-        text: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.
+        text: hmmmmmm
       - icon:
           name: BiPalette
           color: green
@@ -48,5 +48,6 @@ blocks:
     color: tint
     _template: features
 ---
+
 
 
