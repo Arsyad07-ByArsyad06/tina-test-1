@@ -30,9 +30,7 @@ blocks:
           color: red
           style: float
         title: Amazing Feature
-        text: >-
-          Aliquam blandit felis rhoncus, eleifend ipsum in, condimentum nibh.
-          Praesent ac faucibus risus, eu lacinia enim.
+        text: Lorem ipsum
       - icon:
           name: BiLike
           color: primary
@@ -50,4 +48,5 @@ blocks:
     color: tint
     _template: features
 ---
+
 
